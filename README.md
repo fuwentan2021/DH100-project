@@ -19,12 +19,12 @@ About Fuwen Tan:
 3. Notebook: https://colab.research.google.com/drive/1LeWtYtxYae-QZsLr9N9a7ubf-ag4arU4?usp=sharing
 4. GitHub: https://github.com/fuwentan2021/DH100-project
 
-# Data Analysis 
-* Research projects which include visualization with statistical analysis.
-* Comprising a large scale of data, both in terms of the number of documents, word counts, and in a wide range of languages.
+# Data Analysis and Visulization
+* systematically applying statistical and  logical techniques to describe and illustrate, condense and recap, and evaluate data.
+* translating data into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from.
 
 # DH100 Project: 
-* Adam Anderson (co-PI, Instructor)
+* Adam Anderson (co-PI, Instructor: https://digitalhumanities.berkeley.edu/people/adam-g-anderson)
 * Fuwen Tan (PI, student)
 
 
