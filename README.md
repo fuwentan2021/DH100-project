@@ -1,17 +1,17 @@
 # DH100-project
 HOW MOVING ONLINE HAS AFFECTED  STUDENTS' SLEEP IN NON-PACIFIC TIME ZONES 
 
-*Fuwen Tan (fuwentan@berkeley.edu)
-*Discord name: Fuwen
-*Github name: fuwentan2021
+* Fuwen Tan (fuwentan@berkeley.edu)
+* Discord name: Fuwen
+* Github name: fuwentan2021
 
 # Bio:
 
-*About Fuwen Tan:
-*UC Berkeley undergrad 2022' 
-*Major in statistics and minor in data science 
-*Come from China
-*Female
+About Fuwen Tan:
+* UC Berkeley undergrad 2022' 
+* Major in statistics and minor in data science 
+* Come from China
+* Female
 
 # Contents:
 1. Storyboard: https://lucid.app/lucidchart/234349d8-de9a-49b3-8f2b-543634439a14/edit?viewport_loc=-239%2C-75%2C2581%2C1276%2C0_0&invitationId=inv_359c2ed9-81d8-40e2-b95c-4551f911e074
