@@ -1,4 +1,4 @@
-# DH100-project
+# DH100-Portfolio
 HOW MOVING ONLINE HAS AFFECTED  STUDENTS' SLEEP IN NON-PACIFIC TIME ZONES 
 
 * Fuwen Tan (fuwentan@berkeley.edu)
