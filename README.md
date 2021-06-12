@@ -24,12 +24,9 @@ About Fuwen Tan:
 * Comprising a large scale of data, both in terms of the number of documents, word counts, and in a wide range of languages.
 
 # DH100 Project: 
-Adam Anderson (co-PI, Instructor)
+* Adam Anderson (co-PI, Instructor)
+* Fuwen Tan (PI, student)
 
-* Jupyter Notebook by Christina Lov (DS-Discovery student)
-* Jupyter Notebook by Ellen Persson (DS-Discovery student)
-* Jupyter Notebook by Grace Chen (DS-Discovery student)
-* Jupyter Notebook by Prachi Deo (DS-Discovery student)
 
 
 
