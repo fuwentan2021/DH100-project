@@ -19,6 +19,7 @@ About Fuwen Tan:
 3. Dataset: https://docs.google.com/spreadsheets/d/1iEjQMlAuaH4ystyV-xtGyH3PnsihRdDXgp_G2SlgQqQ/edit?usp=sharing
 4. Notebook: https://colab.research.google.com/drive/1LeWtYtxYae-QZsLr9N9a7ubf-ag4arU4?usp=sharing
 5. GitHub: https://github.com/fuwentan2021/DH100-project
+6. Video with slides: https://drive.google.com/drive/folders/1BEAoDDD-kUkxnaS6JT9DCe2czVECfASC?usp=sharing
 
 # Data Analysis and Visulization
 * systematically applying statistical and  logical techniques to describe and illustrate, condense and recap, and evaluate data.
