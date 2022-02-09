@@ -10,9 +10,7 @@ HOW MOVING ONLINE HAS AFFECTED  STUDENTS' SLEEP IN NON-PACIFIC TIME ZONES 
 
 About Fuwen Tan:
 * UC Berkeley undergrad 2022' 
-* Major in statistics and minor in data science 
-* Come from China
-* Female
+* Major in data science 
 
 # Contents:
 1. Storyboard: https://drive.google.com/drive/folders/1J5zjHTVNqZofi9TzS6DqpVuENBw5vu5Z?usp=sharing
