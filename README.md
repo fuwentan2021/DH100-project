@@ -2,9 +2,6 @@
 HOW MOVING ONLINE HAS AFFECTED  STUDENTS' SLEEP IN NON-PACIFIC TIME ZONES 
 * The outbreak of COVID-19 has led to the quarantine of many students in their homes worldwide, resulted in most schools using online education modalities as part of their strategy to mitigate interruptions to coursework. This causes international students have to face the challenge of coordinating sleep schedules in different time zones. So my project focus on how moving online has affected students’ sleep in non-Pacific time zones.
 
-* Fuwen Tan (fuwentan@berkeley.edu)
-* Discord name: Fuwen
-* Github name: fuwentan2021
 
 # Bio:
 
